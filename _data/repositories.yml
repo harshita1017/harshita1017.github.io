@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - harshita1017/WattWise
+  - harshita1017/eVaidya
+  - harshita1017/youtube_like_prediction
+  - harshita1017/Coronavirus_Tweet_classifier
+  
