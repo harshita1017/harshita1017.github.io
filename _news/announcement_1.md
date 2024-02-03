@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-01-29
 inline: true
-related_posts: false
+related_posts: true
 ---
 
-A simple inline announcement.
+Presented a talk during the virtual COMSATS Lahore Solution Challenge Kickoff Session, sharing insights on the Solution Challenge roadmap and my experience as a Top 100 Global Finalist.

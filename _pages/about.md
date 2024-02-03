@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Computer Engineering Senior, Interested in AI, Data, and Software
 
 profile:
   align: right
@@ -25,5 +25,7 @@ I am a Computer Engineering undergraduate at `Indira Gandhi Delhi Technical Univ
 With a keen interest in AI, Data, and Software, I've embarked on a dynamic professional journey that reflects my passion and dedication. One of my recent achievements includes being in the `top 100` at the `2023 Google Solution Challenge`. 
 
 I have also undertaken some research endeavors which include work in the domain of `Parkinson's detection using Speech` and `Machine Unlearning`. 
+
+Currently i am interested in research in the domain of `ExAI` and `LLMs`. 
 
 

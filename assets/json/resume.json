@@ -2,10 +2,10 @@
   "basics": {
     "name": "Harshita Rathee",
     "label": "Undergraduate student",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "image": "assets/img/harshita_rathee.jpg",
+    "email": "harshita130btcse20@igdtuw.ac.in",
+    "phone": "",
+    "url": "https://harshitarathee.github.io/",
     "summary": "Computer Engineering Undergrad interested in Data and Software",
     "location": {
      
@@ -16,44 +16,71 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "harshita_rathee",
+        "url": "https://twitter.com/harshita_rathee"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Expedia Group",
+      "position": "Data Engineering Intern",
+      "url": "https://www.expediagroup.com/",
+      "startDate": "2023-05",
+      "endDate": "2023-07",
+      "summary": "Worked on 2 projects: (i)Improve accuracy for Isolation Forest model using custom algorithm for linear trends,(ii) Implementation of Feedback Loop algorithm for anomaly detection",
+      "highlights": ["The work was used by the company for its pipeline"]
+    },
+    {
+      "name": "Center for Development of Advanced Computing",
+      "position": "Summer Intern",
+      "url": "https://www.cdac.in/",
+      "startDate": "2022-06",
+      "endDate": "2022-07",
+      "summary": "Conducting research on EEG signals using neurocybernetics using WGAN models based on BCI data",
+      "highlights": ["Was part of the review mechanism for the project"]
     }
   ],
-  "volunteer": [
+  "Positions of Responsibility / Volunteer Experience": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "AI Club",
+      "position": "Vice President",
+      "url": "",
+      "startDate": "2023-02",
+      "endDate": "2024-02",
+      "summary": "Lead organizer of various sessions and AI related events",
+      "highlights": ["Organized a 8-week workshop on Machine Learning"]
+    },
+    {
+      "organization": "GirlUp Aadya, UN Foundation",
+      "position": "Content & Creative Lead",
+      "url": "https://girlup.org/",
+      "startDate": "2023-02",
+      "endDate": "2024-02",
+      "summary": "Worked on the content and creative division and supervised the work of the team",
+      "highlights": ["Organized a volunteering donation drives and spreading awareness about the cause in various rural areas"]
     }
   ],
   "education": [
     {
       "institution": "Indira Gandhi Delhi Technical University for Women",
       "location": "Delhi, India",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "BTech",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "url": "https://www.igdtuw.ac.in/",
+      "area": "Computer Science & Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2020",
+      "endDate": "2024",
+      "score": "8.98",
+      "courses": [
+        "Data Structures",
+        "Algorithms",
+        "Operating Systems",
+        "Computer Networks",
+        "Database Management Systems",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Software Engineering"
+      ]
     }
   ],
   "awards": [
@@ -155,6 +182,10 @@
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Fair"
     }
   ],
   "interests": [],
