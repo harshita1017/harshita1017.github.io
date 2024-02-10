@@ -30,6 +30,11 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
+      - name: Install dependencies
+        run: |
+          bundle install
+          # Install Jupyter and its dependencies
+          pip install jupyter
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
