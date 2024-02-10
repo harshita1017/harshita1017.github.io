@@ -42,6 +42,11 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
+      - name: Install dependencies
+        run: |
+          bundle install
+          # Install Jupyter and its dependencies
+          pip install jupyter
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
